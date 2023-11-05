@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .converter {
+    margin: 20px auto;
+  }
+  
+  input {
+    width: 80px;
+    padding: 5px;
+  }
+  
+  select {
+    padding: 5px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #0074e4;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .result {
+    margin: 20px auto;
+  }
+  
+  
